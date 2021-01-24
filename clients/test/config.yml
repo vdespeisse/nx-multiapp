@@ -1,0 +1,5 @@
+extends:
+ - base
+ - clients/test/main
+ - common/switch
+apps: true
